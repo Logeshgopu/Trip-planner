@@ -1,0 +1,64 @@
+
+body{
+    background-color: rgb(231, 231, 168);
+}
+.btn1{
+    margin-top: 30px;
+    margin-left: 15px;
+    
+}
+.btn2{
+    margin-top: -20px;
+    margin-left: 160px;
+}
+.btn1 :hover{
+    cursor: pointer;
+    background-color: lightgreen;
+    color: brown;
+}
+
+
+.btn2 :hover{
+    cursor: pointer;
+    background-color: lightgreen;
+    color: brown;
+}
+.title{
+    padding: 1px;
+    padding-left: 10px;
+    background-color: rgb(93, 226, 93);
+    border-radius: 10px;
+}
+h3{
+    margin-left: 100px;
+}
+.box{
+    
+    color: white;
+    padding: 10px;
+    margin-top: 30px;
+    margin-right: 100px;
+    margin-left:100px;
+    background-color: black;
+    border-radius: 10px;
+    
+}
+marquee{
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+hr{
+    color: black;
+    margin-top: 20px;
+}
+h2{
+    text-align: center;
+}
+
+
+    
+
+
+
+
